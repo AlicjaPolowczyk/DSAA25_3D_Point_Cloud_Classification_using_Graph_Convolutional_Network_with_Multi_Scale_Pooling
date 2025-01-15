@@ -1,0 +1,36 @@
+classes:
+  bathtub:
+    train: "data/modelnet10/bathtub/train"
+    test: "data/modelnet10/bathtub/test"
+  bed:
+    train: "data/modelnet10/bed/train"
+    test: "data/modelnet10/bed/test"
+  chair:
+    train: "data/modelnet10/chair/train"
+    test: "data/modelnet10/chair/test"
+  desk:
+    train: "data/modelnet10/desk/train"
+    test: "data/modelnet10/desk/test"
+  dresser:
+    train: "data/modelnet10/dresser/train"
+    test: "data/modelnet10/dresser/test"
+  monitor:
+    train: "data/modelnet10/monitor/train"
+    test: "data/modelnet10/monitor/test"
+  night_stand:
+    train: "data/modelnet10/night_stand/train"
+    test: "data/modelnet10/night_stand/test"
+  sofa:
+    train: "data/modelnet10/sofa/train"
+    test: "data/modelnet10/sofa/test"
+  table:
+    train: "data/modelnet10/table/train"
+    test: "data/modelnet10/table/test"
+  toilet:
+    train: "data/modelnet10/toilet/train"
+    test: "data/modelnet10/toilet/test"
+
+target_size: 500
+k_neighbors: 5
+
+class_names: ["Bathtub", "Bed", "Chair", "Desk", "Dresser", "Monitor", "Night Stand", "Sofa", "Table", "Toilet"]
