@@ -1,0 +1,7 @@
+defaults:
+  - model
+  - train
+  - data
+
+
+seed: 42
