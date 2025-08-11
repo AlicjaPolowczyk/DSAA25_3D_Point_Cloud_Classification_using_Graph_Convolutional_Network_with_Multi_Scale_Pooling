@@ -19,7 +19,7 @@ to be presented at the **DSAA 2025 (IEEE International Conference on Data Scienc
 
 ## 📂 Project Structure
 ```bash 
-3dgcn/
+DSAA25_3D_Point_Cloud_Classification_using_Graph_Convolutional_Network_with_Multi_Scale_Pooling/
 ├── configs/
 │ ├── config.yaml
 │ ├── model.yaml
@@ -47,8 +47,9 @@ to be presented at the **DSAA 2025 (IEEE International Conference on Data Scienc
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/3dgcn.git
-cd 3dgcn
+git clone https://github.com/AlicjaPolowczyk/DSAA25_3D_Point_Cloud_Classification_using_Graph_Convolutional_Network_with_Multi_Scale_Pooling
+
+cd DSAA25_3D_Point_Cloud_Classification_using_Graph_Convolutional_Network_with_Multi_Scale_Pooling
 ```
 
 ### 2. Create environment
